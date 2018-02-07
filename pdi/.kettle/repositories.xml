@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories>
+  <repository>    
+    <id>KettleFileRepository</id>
+    <name>mpr</name>
+    <description>This is the repo for the mpr project</description>
+    <is_default>false</is_default>
+    <base_directory>/home/michele/psgrs/mmproject/mpr-code/pdi</base_directory>
+    <read_only>N</read_only>
+    <hides_hidden_files>N</hides_hidden_files>
+  </repository>  
+</repositories>
